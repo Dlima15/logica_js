@@ -22,4 +22,5 @@ while (chute != numeroSecreto){
         // numero de tentativas somadas
         tentativas++; 
     }
-}
+};
+
